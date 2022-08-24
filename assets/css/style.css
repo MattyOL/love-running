@@ -134,3 +134,15 @@ h1, h2 {
     width: 33%;
     margin: 0 auto;
 }
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.left-about-heading {
+    
+}
