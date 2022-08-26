@@ -15,8 +15,7 @@ body {
 
 /* headings and logo */
 
-h1,
-h2 {
+h1, h2 {
     font-family: oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -36,9 +35,11 @@ h2 {
     letter-spacing: 4px;
 }
 
-#menu, #logo {
-    line-height: 75px;
+#menu,  #logo {
+    line-height: 75px ;
 }
+
+
 
 #menu li {
     float: right;
